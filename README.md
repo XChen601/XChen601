@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a machine learning project under the guidance of KPMG and Break Through Tech.
-- 🌱 I’m currently learning more about web development and machine learning/data science. 
+- 🔭 I’m currently working on https://github.com/HafsaSarker/flavorful-finds
+- 🌱 I’m currently learning more about web development
 <!--
 **XChen601/XChen601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
