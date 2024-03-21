@@ -32,6 +32,5 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
 
 ## 🌍 Let's connect!
-- 🌐 [Website](https://xchen601.github.io/personal-portfolio/#contact)
 - 🏢 [LinkedIn](https://www.linkedin.com/in/xchen601/)
 
